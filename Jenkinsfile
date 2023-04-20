@@ -3,6 +3,9 @@ pipeline {
     options {
         skipStagesAfterUnstable()
     }
+    triggers {
+        githubPush()
+    }
     stages {
          stage('Clone repository') { 
             steps { 
