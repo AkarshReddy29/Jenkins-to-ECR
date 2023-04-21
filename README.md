@@ -45,11 +45,6 @@ Report an issue with this plugin
 
 Pipeline: GitHub
 Version2.8-138.d766e30bb08b
-#new changes just to test pipeline
-#Hi Akarsh reddy with time 12.07
-#Learning pipeline
-#Test Auto flow 
-#Test123
-#Read me.......Read Me.....
-#AWS lambda
+
 #Code addition 
+#Learning Jenkins and pipelines
